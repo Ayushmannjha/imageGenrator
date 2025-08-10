@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/",
+    "/frame-editor",
+    "/upload"
+  ]
+}
